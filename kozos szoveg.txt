@@ -1,6 +1,3 @@
 Az elso sort en csinaltam. LT.
-<<<<<<< HEAD
-harmadik sor így kezdődik.
-=======
-Ez meg én. K.
->>>>>>> 0ed5467ef8f10e8bed6e4c4756e84db138bedb1d
+Ez meg én. K.Az elso sort en csinaltam. LT.
+Negyedik sor igy kezdodik G.
